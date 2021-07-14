@@ -9,7 +9,8 @@
  
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mberbero&repo=proxit&show_owner=true&theme=tokyonight&)](https://github.com/mberbero/proxit)
+[![Mberbero](https://github-readme-stats.vercel.app/api/pin/?username=mberbero&repo=proxit&show_owner=true&theme=tokyonight&)](https://github.com/mberbero/proxit)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberbero&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" alt="mberbero" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mberbero&show_icons=true&theme=tokyonight&count_private=true&layout=compact" alt="mberbero" width="420" />
+![Mberbero](https://github-readme-stats.vercel.app/api/top-langs?username=mberbero&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true)
+
+![Mberbero](https://github-readme-stats.vercel.app/api?username=mberbero&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
