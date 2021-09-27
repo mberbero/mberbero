@@ -1,4 +1,6 @@
 # Hi Everyone :wave:
+I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
+I'm also a huge fan of the Go programming language and I'm passionate about it. I'm currently learning and working on my own projects.
 
 - 🔭  I’m currently developing **Proxit** & **Coswarm**
 - 🌱  I’m currently learning **Golang**
@@ -7,9 +9,6 @@
 -   [Coswarm](https://coswarm.dev)  is Docker Swarm Based Private PaaS Solution
 
  
-
-
-[![Mberbero](https://github-readme-stats.vercel.app/api/pin/?username=mberbero&repo=proxit&show_owner=true&theme=tokyonight&)](https://github.com/mberbero/proxit)
 
 ![Mberbero](https://github-readme-stats.vercel.app/api/top-langs?username=mberbero&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true)
 
