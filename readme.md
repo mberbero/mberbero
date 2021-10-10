@@ -2,11 +2,10 @@
 I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
 I'm also a huge fan of the Go programming language and I'm passionate about it. I'm currently learning and working on my own projects.
 
-- 🔭  I’m currently developing **Proxit** & **Coswarm**
-- 🌱  I’m currently learning **Golang**
+- 🔭  I’m currently developing **Coswarm**
 - 💬  Ask me about **Frontend techs, Backend techs, DevOPS techs**
 - 📫  mansur@coswarm.dev || mansurberbero@gmail.com
--   [Coswarm](https://coswarm.dev)  is Docker Swarm Based Private PaaS Solution
+- [Coswarm](https://coswarm.dev)  is Docker Swarm Based Private PaaS Solution
 
  
 
