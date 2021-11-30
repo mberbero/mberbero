@@ -15,8 +15,6 @@ I'm also a huge fan of the Go programming language and I'm passionate about it. 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-05122A?style=flat&logo=Nuxt.js)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-05122A?style=flat&logo=Ruby&logoColor=f8766d)&nbsp;
-
-
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![kubernetes](https://img.shields.io/badge/kubernetes-05122A.svg?style=flat&logo=kubernetes)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
