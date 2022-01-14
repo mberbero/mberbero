@@ -34,7 +34,7 @@ I'm also a huge fan of the Go programming language and I'm passionate about it. 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mberbero&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mberbero"/><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberbero&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mberbero"/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mberbero&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mberbero&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://github.com/mberbero)
 
 
 
