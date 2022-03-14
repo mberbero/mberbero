@@ -25,20 +25,3 @@ I'm also a huge fan of the Go programming language and I'm passionate about it. 
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=007ACC)&nbsp;
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-05122A?style=flat&logo=DigitalOcean&logoColor=007ACC)&nbsp;
-
-
-
-### 📊 GitHub Analytics
-
-
-<p align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mberbero&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mberbero)
-  
-</p>
-
-
-
-
-
-
