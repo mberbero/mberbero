@@ -5,7 +5,7 @@ I'm also a huge fan of the Go programming language and I'm passionate about it. 
 - :dart: I am software developer at [MonoPayments](https://github.com/monopayments). 
 - 🔭  I’m currently developing **Coswarm**
 - 💬  Ask me about **Frontend techs, Backend techs, DevOPS techs**
-- 📫  mansur@coswarm.dev || mansurberbero@gmail.com
+- 📫  mansurberbero@gmail.com
 - [Coswarm](https://coswarm.dev)  is Docker Swarm Based Private PaaS Solution
 
 
