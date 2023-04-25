@@ -1,11 +1,9 @@
 # Hi Everyone :wave:
 I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
-I'm also a huge fan of the Go programming language and I'm passionate about it. I'm currently learning and working on my own projects.
 
-- :dart: I am software developer at [MonoPayments](https://github.com/monopayments). 
-- 🔭  I’m currently developing [Coswarm](https://coswarm.dev)
+- :dart: I am Solutions Architect at [MonoPayments](https://github.com/monopayments). 
+- 🔭  I’m currently developing [Coswarm](https://coswarm.dev) & [Kervan](https://kervan.dev)
 - 💬  Ask me about **Frontend techs, Backend techs, DevOPS techs**
-- 📫  mansurberbero@gmail.com
 
 ### 🛠 Tech Stack
 ![Golang](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
