@@ -1,5 +1,4 @@
 # Hi Everyone :wave:
-I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
 
 - :dart: I am Solutions Architect at [MonoPayments](https://github.com/monopayments). 
 - 🔭  I’m currently developing [Coswarm](https://coswarm.dev) & [Kervan](https://kervan.dev)
